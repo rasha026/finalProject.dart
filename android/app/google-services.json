@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "767678748394",
+    "project_id": "dsc-shop-89cb8",
+    "storage_bucket": "dsc-shop-89cb8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767678748394:android:4995a098fc56dd0a986993",
+        "android_client_info": {
+          "package_name": "com.example.final_project4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767678748394-gh2vkdlaqm2ki060bcip4ljhs3o1j6rp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPCHr3775C2MPlmleQ5aB2V_UjGZrKFvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767678748394-gh2vkdlaqm2ki060bcip4ljhs3o1j6rp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
